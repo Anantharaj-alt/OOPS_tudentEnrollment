@@ -1,0 +1,23 @@
+
+
+insert into marketing values ('9','Sumith','0.8','Post Graduate','Staff','Mr.Kamal');
+insert into marketing values ('13','Gayathri','0.2','Post Graduate','Staff','Mr.Kamal');
+insert into marketing values ('15','Suniml','1','Post Graduate','Staff','Mr.Kamal');
+insert into marketing values ('2','Ganesh','1','Post Graduate','Staff','Mr.Kamal');
+insert into marketing values ('4','Gayan','3','Post Graduate','Lead','Mr.Kamal');
+insert into marketing values ('6','Kushan','5','Post Graduate','Manager','Mr.Kamal');
+
+
+insert into marketing values ('14','Fernando','4','Certificate Program','Lead','Mr.Nimal');
+insert into marketing values ('10','Nayani','2','Certificate Program','Staff','Mr.Nimal');
+insert into marketing values ('11','Ksuni','1','Certificate Program','Staff','Mr.Nimal');
+insert into marketing values ('5','Antony','6','Certificate Program','Manager','Mr.Nimal');
+
+
+
+
+insert into marketing values ('12','Ishari','4','Under Graduate','Lead','Mr.Saman');
+insert into marketing values ('7','Hamda','1','Under Graduate','Staff','Mr.Saman');
+insert into marketing values ('8','Ikshn','6','Under Graduate','Manager','Mr.Saman');
+insert into marketing values ('1','Anand','1','Under Graduate','Staff','Mr.Saman');
+insert into marketing values ('3','Supun','6','Under Graduate','Staff','Mr.Saman');
